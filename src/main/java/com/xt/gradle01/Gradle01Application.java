@@ -10,6 +10,7 @@ public class Gradle01Application {
 		SpringApplication.run(Gradle01Application.class, args);
 		System.out.println("aaa");
 		System.out.println("bbb");
+		System.out.println("ccc");
 	}
 
 }
