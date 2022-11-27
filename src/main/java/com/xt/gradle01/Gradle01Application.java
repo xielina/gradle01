@@ -17,6 +17,8 @@ public class Gradle01Application {
 		System.out.println("push test");
 		System.out.println("push test 2");
 		System.out.println("pull test");
+
+		System.out.println("test rebase 合并");
 	}
 
 }
