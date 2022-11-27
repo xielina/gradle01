@@ -30,6 +30,7 @@ public class Gradle01Application {
 		System.out.println("d");
 
 		System.out.println("git rebase 合并 测试");
+		System.out.println("推送完成");
 	}
 
 }
