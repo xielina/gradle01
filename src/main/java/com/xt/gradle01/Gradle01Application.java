@@ -23,6 +23,11 @@ public class Gradle01Application {
 		System.out.println("rebase 1");
 		System.out.println("rebase 2");
 		System.out.println("rebase 3");
+
+		System.out.println("a");
+		System.out.println("b");
+		System.out.println("c");
+		System.out.println("d");
 	}
 
 }
