@@ -18,6 +18,11 @@ public class Gradle01Application {
 		System.out.println("push test 2");
 		System.out.println("pull test");
 		System.out.println("test reset");
+		System.out.println("test stash");
+
+		System.out.println("rebase 1");
+		System.out.println("rebase 2");
+		System.out.println("rebase 3");
 	}
 
 }
