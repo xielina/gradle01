@@ -28,6 +28,8 @@ public class Gradle01Application {
 		System.out.println("b");
 		System.out.println("c");
 		System.out.println("d");
+
+		System.out.println("git rebase 合并 测试");
 	}
 
 }
